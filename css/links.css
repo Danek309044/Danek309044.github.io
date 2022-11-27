@@ -63,6 +63,9 @@ body {
     display: inline-block;
 }
 
+.twitter {
+    padding: 4px;
+}
 
 a:link,
 a:visited {
