@@ -1,7 +1,7 @@
 User-Agent: *
-Allow: /https://danek309044.github.io/links.html
-Allow: /https://danek309044.github.io/index.html
-Disallow: /https://danek309044.github.io/l.html
+Allow: https://danek309044.github.io/links.html
+Allow: https://danek309044.github.io/index.html
+Disallow: https://danek309044.github.io/l.html
 
 Sitemap: https://danek309044.github.io/sitemap.xml
 
