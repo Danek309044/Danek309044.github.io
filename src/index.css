@@ -5,10 +5,10 @@ a {
 a:hover {
     color: #ffffffad;
 }
-#header, #aboutme, #contactme, #projects {
+#aboutme, #contactme, #projects {
     margin: 5% 20% 20% 20%;
 }
-/* Navbar */
+/* Navbar
 .navbar ul {
     list-style-type: none;
     padding: 0;
@@ -38,10 +38,11 @@ a:hover {
 }
 .navbar li a.home {
     background-color: #111;
-}
+}*/
 /* Header */
 #header {
     font-size: larger;
+    margin: 10% 20% 20% 20%;
 }
 #header a.aboutme, #header a.contactme {
     padding: 6px;
