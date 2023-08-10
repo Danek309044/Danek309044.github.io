@@ -1,0 +1,77 @@
+/* Global */
+a {
+    color: #fff;
+}
+a:hover {
+    color: #ffffffad;
+}
+#header, #aboutme, #contactme, #projects {
+    margin: 5% 20% 20% 20%;
+}
+/* Navbar */
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+.navbar li {
+    float: left;
+}
+.navbar li a, li.home {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    background-color: #1111114f;
+    border-radius: 10px;
+}
+.navbar li a.aboutme:hover {
+    border-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.navbar li a.home {
+    background-color: #111;
+}
+/* Header */
+#header {
+    font-size: larger;
+}
+#header a.aboutme, #header a.contactme {
+    padding: 6px;
+    border-radius: 6px;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+#header a.aboutme {
+    background-color: #111;
+}
+#header a.contactme {
+    background-color: #333;
+}
+#header a.aboutme:hover, #header a.contactme:hover {
+    padding: 6px;
+    border-radius: 6px;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1), 0 6px 25px 0 rgba(0, 0, 0, 0.692);
+}
+/* Contact me */
+#contactme a {
+    font-size: xx-large;
+}
+/* Projects */
+p.link {
+    text-decoration: underline;
+}
+/* Footer */
+p.footer {
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Noto+Color+Emoji&display=swap');
+
+body {
+    font-family: 'Inter', 'Noto Color Emoji', sans-serif;
+    background-color: #222222;
+    color: #fff;
+}
+
+html {
+    scroll-behavior: smooth
+}
