@@ -1,0 +1,5 @@
+User-Agent:*
+Disallow: /src/
+
+Sitemap: https://d309044.eu/sitemap.xml
+
