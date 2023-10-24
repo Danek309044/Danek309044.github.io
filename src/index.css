@@ -76,3 +76,20 @@ p.link {
 p.footer {
     text-align: center;
 }
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 22px;
+    background: #ffffff00;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 22px;
+    background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+    border-radius: 22px;
+    background: #a8a8a8;
+}
