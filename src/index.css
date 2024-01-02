@@ -65,7 +65,7 @@ a:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1), 0 6px 25px 0 rgba(0, 0, 0, 0.692);
 }
 /* Contact me */
-#contactme a {
+#contactme a#at {
     font-size: xx-large;
 }
 /* Projects */
